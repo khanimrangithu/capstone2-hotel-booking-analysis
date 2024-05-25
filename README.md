@@ -44,4 +44,4 @@ Every year there is 25-30% cancellation for resort hotels and 40-45% cancellatio
 [GitHub Repository](https://github.com/khanimrangithu/capstone2-hotel-booking-analysis)
 
 # License
-This project is licensed under the MIT License - see the [LICENSE](License) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
