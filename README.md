@@ -6,7 +6,7 @@ In our data study we have 2 types of hotels- the resort type and city hotel type
 # Project Goal
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. Purpose of our study is to find the best time to book a hotel room. The optimal length of stay in order to get the best daily rate. Study on special requests.We explore and analyze the data to discover important factors that govern the bookings.
 
-# Exploratory Data Analysis:-
+# Exploratory Data Analysis
 In this study we have sample data about the hotel industry that is not processed for use. Unprocessed data gives inaccurate results. To process this data is called data cleaning. We have cleaned the data by handling null values, outliers and dropping unwanted columns.
 
 # Data study
@@ -16,7 +16,7 @@ ii) BIVARIATE ANALYSIS: Bivariate analysis between two variables. One of the var
 
 iii) MULTIVARIATE ANALYSIS Multivariate data analysis is the study of relationships among the attributes, classify the collected samples into homogeneous groups, and make inferences about the underlying populations from the sample.
 
-# Data Visualization :-
+# Data Visualization
 Data visualization is the practice of translating information into a visual context, such as a map or graph, to make it easier to understand and gain insights from them. The graphs used here for study are: -
 
 Box Plot.
@@ -29,7 +29,7 @@ Line Plot.
 
 Scatter Plot.
 
-# Conclusion :-
+# Conclusion 
 Majority of people prefer A-room type so hotels should increase their numbers to get more revenue.
 
 Chances of cancellation is high when there are no deposits taken by hotels, so hotels should take minimum deposits to minimise the rate of cancellation.
@@ -39,3 +39,9 @@ Transient customers cancels more often but when people book in groups it leads t
 Maximum number of bookings are in the month May to August, so hotels should provide exciting deal to customers to increase their booking in off season. As hotels are getting less repeated customers so management should take customer’s feedback and improve the hotel facilities to increase the count of their repeated guests.
 
 Every year there is 25-30% cancellation for resort hotels and 40-45% cancellation for city hotels.
+
+# GitHub Repository
+[GitHub Repository](https://github.com/khanimrangithu/capstone2-hotel-booking-analysis)
+
+# License
+This project is licensed under the MIT License - see the [LICENSE](License) file for details.
